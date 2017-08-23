@@ -1,6 +1,6 @@
 {
   "name": "fetch-data-adv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper function for React",
   "main": "./lib",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cyberlane/fetchData.git"
+    "url": "git+https://github.com/Cyberlane/fetch-data-adv.git"
   },
   "author": "Justin Nel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cyberlane/fetchData/issues"
+    "url": "https://github.com/Cyberlane/fetch-data-adv/issues"
   },
-  "homepage": "https://github.com/Cyberlane/fetchData#readme",
+  "homepage": "https://github.com/Cyberlane/fetch-data-adv#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
