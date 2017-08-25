@@ -1,3 +1,5 @@
+[![Version](http://img.shields.io/npm/v/fetch-data-adv.svg)](https://www.npmjs.org/package/fetch-data-adv)
+
 # fetch-data-adv
 
 A helper function for React Components, allowing you to pre-fetch data before loading your component and offering the option to display a loading component while promises are being resolved.
