@@ -1,4 +1,5 @@
 [![Version](http://img.shields.io/npm/v/fetch-data-adv.svg)](https://www.npmjs.org/package/fetch-data-adv)
+[![npm](https://img.shields.io/npm/dt/fetch-data-adv.svg)](Downloads)
 
 # fetch-data-adv
 
